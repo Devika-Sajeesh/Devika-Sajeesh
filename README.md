@@ -1,59 +1,76 @@
-# Hi, I'm Devika Sajeesh 👋
+# 👋 Hi, I’m Devika Sajeesh
 
-## About Me
-I am a passionate 2nd semester BTech student specializing in Electrical and Computer Engineering at the College of Engineering Trivandrum (CET). I am deeply interested in the intersection of hardware and software, focusing on areas like Embedded Systems, AI/ML, and Full-Stack Development.
-
----
-
-## 🚀 Current Focus
-- Building hands-on projects combining **Embedded Systems** and **AI/ML**
-- Improving **UI/UX design** skills to create user-friendly applications
-- Developing a personal roadmap towards a software engineering role
-- Enhancing my **DSA (Data Structures & Algorithms)** portfolio on GitHub
+### ⚡ B.Tech in Electrical & Computer Engineering @ College of Engineering Trivandrum  
+🚀 Passionate about building at the intersection of **Hardware + AI + Full-Stack**
 
 ---
 
-## 🛠️ Skills & Technologies
-- **Programming Languages:** C, Python, JavaScript, HTML, CSS
-- **Embedded Systems:** Arduino, Raspberry Pi, Microcontrollers
-- **AI/ML:** Basics of Machine Learning, TensorFlow (learning phase)
-- **Web Development:** Full-stack development with React, Node.js, Streamlit
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux, Figma (UI/UX Design)
+## 👩‍💻 About Me
+
+I’m a second-semester engineering student deeply focused on bridging the gap between software and hardware. I love working on impactful tech — combining **embedded systems**, **machine learning**, and **intuitive UI/UX** to build solutions that matter.
+
+Driven by curiosity, innovation, and purpose, I’m actively exploring how **AI/ML**, **IoT**, and **scalable full-stack systems** can be used to solve real-world challenges.
 
 ---
 
-## 📂 Projects
-- **Gesture-Controlled Robot**  
-  An embedded system project that controls a robot using hand gestures via sensors.
+## 🌱 Current Focus Areas
 
-- **Golden Key Website**  
-  A client project built using HTML, CSS, and JavaScript for event management.
-
-- **Learnify**  
-  A full-stack educational platform integrating AI chatbot features, secure authentication, personalized study plans, and wellness tools, built with Streamlit, MySQL, and AI APIs.
-
-- **Muscle-Controlled Smart Switch (In Progress)**  
-  Developing a prototype for switching devices using muscle signals.
+- 🔧 Building smart systems with **Embedded Hardware + AI**
+- 💻 Reconstructing **Learnify++**, a scalable edtech platform (Next.js + RAG AI)
+- 🎨 Elevating UI/UX design through Figma & user-first workflows
+- 📈 Strengthening **Data Structures & Algorithms** through consistent practice
+- 🧠 Exploring **Muscle Signal-Based Interfaces** for gesture/health applications
 
 ---
 
-## 🎯 Goals
-- Secure strong fundamentals and a solid project portfolio.
-- Build innovative AI/Embedded Systems products solving real-world problems.
-- Contribute actively to open-source and tech communities.
-- Constantly learn cutting-edge technologies and improve problem-solving skills.
+## 🛠️ Tech Stack
+
+**Languages:** C · Python · JavaScript · HTML · CSS  
+**Embedded Systems:** Arduino · Raspberry Pi · Sensors · Actuators  
+**AI/ML:** Scikit-learn · TensorFlow (learning) · Groq API (LLaMA3-70B)  
+**Web Dev:** React · Node.js · Streamlit · Firebase · MySQL · MongoDB  
+**Tools:** Git & GitHub · Figma · VS Code · Linux · Notion  
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/devika-jayalakshmi-sajeesh/)
-- Email: devikasajeesh26@gmail.com
+## 📌 Featured Projects
+
+### 🔹 Learnify / Learnify++
+> A full-stack educational platform with AI-powered guidance, secure user auth, wellness tools, and GPA-driven study plans.  
+**Stack:** Streamlit · MySQL · AI API (Groq) · SHA-256 · Firebase  
+→ Now evolving into **Learnify++** with modern tech stack (Next.js + Tailwind + RAG AI).
+
+### 🔹 Gesture-Controlled Robot  
+> Controls a robot using hand gestures via accelerometer sensors and Arduino.  
+**Tech:** Embedded C · Arduino · Sensor Integration
+
+### 🔹 Golden Key Website  
+> Developed an event management site for a real client using responsive UI.  
+**Stack:** HTML · CSS · JavaScript
+
+### 🔹 Muscle-Controlled Smart Switch *(In Progress)*  
+> An EMG-based prototype to control appliances using muscle flex signals.  
+**Tech:** Arduino · Signal Processing · Hardware-Software Interface
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech and innovation.
+## 🎯 My Goals
+
+- Build **portfolio-grade projects** that solve real problems.
+- Specialize in **AI/Embedded Systems** with full-stack capability.
+- Publish research in **IEEE/NIT/Tech journals** on intelligent interfaces.
+- Contribute to **open-source**, and collaborate on impactful tech.
+- Land a **FAANG-level role or launch a hardware+AI startup**.
 
 ---
 
-*“Learning never exhausts the mind.” – Leonardo da Vinci*
+## 📬 Let’s Connect
 
+- 📧 Email: [devikasajeesh26@gmail.com](mailto:devikasajeesh26@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/devika-jayalakshmi-sajeesh](https://www.linkedin.com/in/devika-jayalakshmi-sajeesh)  
+- 💻 GitHub: [github.com/Devika-Sajeesh](https://github.com/Devika-Sajeesh)  
+- 🌐 Portfolio (soon): *Coming June 2025*
+
+---
+
+> *“Learning never exhausts the mind.” – Leonardo da Vinci*
