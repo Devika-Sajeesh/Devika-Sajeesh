@@ -1,76 +1,54 @@
-# 👋 Hi, I’m Devika Sajeesh
+# 👋 Hi, I'm Devika Sajeesh  
 
-### ⚡ B.Tech in Electrical & Computer Engineering @ College of Engineering Trivandrum  
-🚀 Passionate about building at the intersection of **Hardware + AI + Full-Stack**
-
----
-
-## 👩‍💻 About Me
-
-I’m a second-semester engineering student deeply focused on bridging the gap between software and hardware. I love working on impactful tech — combining **embedded systems**, **machine learning**, and **intuitive UI/UX** to build solutions that matter.
-
-Driven by curiosity, innovation, and purpose, I’m actively exploring how **AI/ML**, **IoT**, and **scalable full-stack systems** can be used to solve real-world challenges.
+🎓 B.Tech Electrical & Computer Engineering @ College of Engineering, Trivandrum (2028)  
+💡 Passionate about **AI/ML, Embedded Systems, and Full-Stack Development**  
+🚀 Building projects that blend **hardware, software, and intelligence**  
 
 ---
 
-## 🌱 Current Focus Areas
+## 🌟 About Me  
+- 🔭 Currently working on: **DevPulse** – AI-powered codebase health analyzer  
+- 🌱 Learning: **Data Structures & Algorithms (DSA), AI/ML research**  
+- 🛠️ Past projects:  
+  - [Learnify++](https://github.com/Devika-Sajeesh/Learnify) – Full-stack edtech platform with AI, wellness, and secure auth  
+  - **Gesture-Controlled Robot** – Embedded + hardware design  
+  - [EduTracker](https://edutrack-dfbe3.web.app/) – Personal academic companion for students  
+  - [TESLA Fest Website](https://tesla.cet.ac.in) – Official site for CET’s tech fest  
 
-- 🔧 Building smart systems with **Embedded Hardware + AI**
-- 💻 Reconstructing **Learnify++**, a scalable edtech platform (Next.js + RAG AI)
-- 🎨 Elevating UI/UX design through Figma & user-first workflows
-- 📈 Strengthening **Data Structures & Algorithms** through consistent practice
-- 🧠 Exploring **Muscle Signal-Based Interfaces** for gesture/health applications
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** C · Python · JavaScript · HTML · CSS  
-**Embedded Systems:** Arduino · Raspberry Pi · Sensors · Actuators  
-**AI/ML:** Scikit-learn · TensorFlow (learning) · Groq API (LLaMA3-70B)  
-**Web Dev:** React · Node.js · Streamlit · Firebase · MySQL · MongoDB  
-**Tools:** Git & GitHub · Figma · VS Code · Linux · Notion  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Learnify / Learnify++
-> A full-stack educational platform with AI-powered guidance, secure user auth, wellness tools, and GPA-driven study plans.  
-**Stack:** Streamlit · MySQL · AI API (Groq) · SHA-256 · Firebase  
-→ Now evolving into **Learnify++** with modern tech stack (Next.js + Tailwind + RAG AI).
-
-### 🔹 Gesture-Controlled Robot  
-> Controls a robot using hand gestures via accelerometer sensors and Arduino.  
-**Tech:** Embedded C · Arduino · Sensor Integration
-
-### 🔹 Golden Key Website  
-> Developed an event management site for a real client using responsive UI.  
-**Stack:** HTML · CSS · JavaScript
-
-### 🔹 Muscle-Controlled Smart Switch *(In Progress)*  
-> An EMG-based prototype to control appliances using muscle flex signals.  
-**Tech:** Arduino · Signal Processing · Hardware-Software Interface
+- 🎯 Career Goal: Specialize as an **AI/ML + Embedded Systems Engineer** with strong full-stack capabilities, aiming for **FAANG/Microsoft**.  
+- 🏆 Certifications & Roles:  
+  - IEEE Web Team Member
+  - Internship Cell Web Team Member
+  - NPTEL - Blockchain and its Applications
+  - Certified App Developer  
+  - Internship @ Wipro IDC (Jyesta Cooperative)  
 
 ---
 
-## 🎯 My Goals
+## 🛠️ Tech Stack  
 
-- Build **portfolio-grade projects** that solve real problems.
-- Specialize in **AI/Embedded Systems** with full-stack capability.
-- Publish research in **IEEE/NIT/Tech journals** on intelligent interfaces.
-- Contribute to **open-source**, and collaborate on impactful tech.
-- Land a **FAANG-level role or launch a hardware+AI startup**.
+**Languages:** C, Python, JavaScript, SQL, HTML/CSS  
+**Frameworks & Tools:** FastAPI, Streamlit, React, Node.js, Tailwind, Arduino, Figma  
+**Databases:** MySQL, PostgreSQL  
+**AI/ML:** LLaMA, Groq API, TensorFlow (learning), NLP  (learning)
+**Other:** Git/GitHub, REST APIs, Blockchain (minor), UI/UX  
 
 ---
 
-## 📬 Let’s Connect
+## 📊 GitHub Stats  
+
+![Devika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devika-Sajeesh&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devika-Sajeesh&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
 
 - 📧 Email: [devikasajeesh26@gmail.com](mailto:devikasajeesh26@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/devika-jayalakshmi-sajeesh](https://www.linkedin.com/in/devika-jayalakshmi-sajeesh)  
-- 💻 GitHub: [github.com/Devika-Sajeesh](https://github.com/Devika-Sajeesh)  
-- 🌐 Portfolio (soon): *Coming June 2025*
+- 💼 LinkedIn: [linkedin.com/in/devika-jayalakshmi-sajeesh](https://www.linkedin.com/in/devika-jayalakshmi-sajeesh/)  
+- 🌐 GitHub: [github.com/Devika-Sajeesh](https://github.com/Devika-Sajeesh)  
+- 🧑‍💻 Expo: [expo.dev/devika_sajeesh](https://expo.dev/accounts/devika_sajeesh/snacks)  
 
 ---
 
-> *“Learning never exhausts the mind.” – Leonardo da Vinci*
+✨ *“Engineering the future by fusing AI, hardware, and human creativity.”*  
