@@ -13,7 +13,8 @@
   - [Learnify++](https://github.com/Devika-Sajeesh/Learnify) – Full-stack edtech platform with AI, wellness, and secure auth  
   - **Gesture-Controlled Robot** – Embedded + hardware design  
   - [EduTracker](https://edutrack-dfbe3.web.app/) – Personal academic companion for students  
-  - [TESLA Fest Website](https://tesla.cet.ac.in) – Official site for CET’s tech fest  
+  - [TESLA Fest Website](https://tesla.cet.ac.in) – Official site for CET’s tech fest
+  - [Jay Realtors Website](http://www.jayrealtors.org) – Official site for a real-estate in Dubai  
 
 - 🎯 Career Goal: Specialize as an **AI/ML + Embedded Systems Engineer** with strong full-stack capabilities, aiming for **FAANG/Microsoft**.  
 - 🏆 Certifications & Roles:  
