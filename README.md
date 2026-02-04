@@ -50,7 +50,7 @@ Long-term goal: specialize as an **AI/ML Engineer** with strong systems depth, t
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devika-sajeesh&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devika-sajeesh&show_icons=true&count_private=true&theme=dark&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika-Sajeesh&layout=compact&theme=dark&hide_border=true" />
 </p>
