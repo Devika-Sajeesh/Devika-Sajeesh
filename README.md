@@ -10,8 +10,7 @@ Focus: AI/ML engineering, intelligent systems, and applied software
 I build AI-driven systems that solve real engineering problems, with experience spanning
 full-stack development and hardware-integrated projects.
 
-Currently working on **DevPulse**, an AI-powered platform for analyzing codebase health and
-technical debt.
+Currently working on **DevPulse**, a secure, containerized code analysis platform that processes untrusted repositories and computes a Code Health Score using static analysis and ML-based risk forecasting, backed by an async FastAPI pipeline and React dashboard.
 
 Long-term goal: specialize as an **AI/ML Engineer** with strong systems depth, targeting
 **FAANG / Microsoft**.
