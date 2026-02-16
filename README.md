@@ -1,71 +1,91 @@
 # Devika Sajeesh
 
-B.Tech Electrical & Computer Engineering, College of Engineering Trivandrum (2028)  
-Focus: AI/ML engineering, intelligent systems, and applied software
+B.Tech Electrical & Computer Engineering (2028)  
+College of Engineering Trivandrum  
+
+Focused on Machine Learning Engineering, backend systems, and secure AI infrastructure.
 
 ---
 
 ## About
 
-I build AI-driven systems that solve real engineering problems, with experience spanning
-full-stack development and hardware-integrated projects.
+I build ML-driven systems with emphasis on:
 
-Currently working on **DevPulse**, a secure, containerized code analysis platform that processes untrusted repositories and computes a Code Health Score using static analysis and ML-based risk forecasting, backed by an async FastAPI pipeline and React dashboard.
+- Reproducibility
+- Data leakage prevention
+- Secure execution environments
+- Measurable evaluation against strong baselines
+- Production-oriented backend design
 
-Long-term goal: specialize as an **AI/ML Engineer** with strong systems depth, targeting
-**FAANG / Microsoft**.
+Currently building **DevPulse** — a containerized code health and ML-based risk forecasting platform.
 
----
-
-## Selected Projects
-
-- **DevPulse** – AI-powered code health and maintainability analysis platform  
-- **Learnify++** – Full-stack edtech platform with AI, wellness tools, and secure authentication  
-- **Gesture-Controlled Robot** – Embedded systems and hardware control  
-- **EduTracker** – Academic productivity and tracking platform  
-- **TESLA Fest Website** – Official technical fest website, CET  
-- **Jay Realtors Website** – Production website for a Dubai-based real estate firm  
+Long-term goal: ML systems engineering at scale.
 
 ---
 
-## Technical Skills
+## Core Projects
 
-**Languages:** Python, C, JavaScript, SQL, HTML/CSS  
-**Frameworks & Tools:** FastAPI, Streamlit, React, Node.js, Tailwind, Arduino, Figma  
-**Databases:** MySQL, PostgreSQL  
-**AI/ML:** LLaMA, Groq API, NLP pipelines, model integration  
-**Other:** Git, GitHub, REST APIs, UI/UX, Blockchain (minor)
+### DevPulse
+Containerized repository analysis system that computes a composite Code Health Score using:
+- Static analysis (Pylint, Radon, CLOC)
+- AI-generated code probability scoring
+- Historical risk prediction (scikit-learn)
+- Async FastAPI backend
+- Docker-based isolation for untrusted code
+
+### EnerCast
+CO₂ emissions estimation system with:
+- Time-based train/test split
+- Strict feature leakage prevention
+- Physics-inspired baseline model
+- ML comparison after baseline validation
+- Reproducible data engineering pipeline
+
+### Learnify++
+Full-stack AI-integrated education platform with:
+- Secure authentication (SHA-256 + salt)
+- LLM-powered assistance
+- GPA-based personalization
+- Backend + database architecture
 
 ---
 
-## Experience & Roles
+## Technical Stack
 
-- IEEE Web Team Member  
-- Internship Cell Web Team Member  
-- Internship — Wipro IDC (Jyesta Cooperative)  
+Languages: Python, C, JavaScript  
+Backend: FastAPI, REST APIs, Async pipelines  
+ML: scikit-learn, evaluation pipelines, LLM integration  
+Databases: PostgreSQL, MySQL  
+Frontend: React, Tailwind  
+Infrastructure: Docker, Git  
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devika-sajeesh&show_icons=true&theme=dark&hide_border=true"
-  />
+  <!--img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devika-sajeesh&show_icons=true&hide_border=true&count_private=true" /-->
   <br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devika-sajeesh&layout=compact&theme=dark&hide_border=true"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devika-sajeesh&layout=compact&hide_border=true" />
 </p>
 
 
 
+---
+
+## Contribution Overview
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devika-Sajeesh&hide_border=true" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devika-Sajeesh" />
+</p>
 
 ---
 
 ## Contact
 
 Email: devikasajeesh26@gmail.com  
-LinkedIn: https://www.linkedin.com/in/devika-jayalakshmi-sajeesh/  
 GitHub: https://github.com/Devika-Sajeesh  
-Expo: https://expo.dev/accounts/devika_sajeesh/snacks
+LinkedIn: https://www.linkedin.com/in/devika-jayalakshmi-sajeesh  
+LeetCode: https://leetcode.com/u/devikasajeesh/
