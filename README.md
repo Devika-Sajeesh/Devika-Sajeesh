@@ -69,7 +69,7 @@ Infrastructure: Docker, Git
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devika-sajeesh&layout=compact&hide_border=true" />
 </p>
 
-
+![](https://komarev.com/ghpvc/?username=devika-sajeesh)
 
 ---
 
