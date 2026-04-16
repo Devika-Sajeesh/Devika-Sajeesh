@@ -64,7 +64,7 @@ Infrastructure: Docker, Git
 ## GitHub Stats
 
 <p align="center">
-  <!--img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devika-sajeesh&show_icons=true&hide_border=true&count_private=true" /-->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devika-sajeesh&show_icons=true&hide_border=true&count_private=true" >
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devika-sajeesh&layout=compact&hide_border=true" />
 </p>
@@ -88,4 +88,3 @@ Infrastructure: Docker, Git
 Email: devikasajeesh26@gmail.com  
 GitHub: https://github.com/Devika-Sajeesh  
 LinkedIn: https://www.linkedin.com/in/devika-jayalakshmi-sajeesh  
-LeetCode: https://leetcode.com/u/devikasajeesh/
