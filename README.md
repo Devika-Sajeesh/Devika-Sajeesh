@@ -64,9 +64,9 @@ Infrastructure: Docker, Git
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devika-sajeesh&show_icons=true&hide_border=true&count_private=true" >
+  <img src="https://github-readme-stats.vercel.app/api?username=devika-sajeesh&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devika-sajeesh&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devika-sajeesh&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 
